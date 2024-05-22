@@ -1,0 +1,3 @@
+[submodule "sub-corpora/named-entity-recognition"]
+	path = sub-corpora/named-entity-recognition
+	url = https://github.com/RinaldsViksna/Latvian-food-NER-corpus
