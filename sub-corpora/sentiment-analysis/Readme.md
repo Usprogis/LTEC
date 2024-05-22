@@ -6,6 +6,11 @@ This sub-corpus contains 5420 tweets with human-annotated sentiment as positive 
 - **ltec-sentiment-annotated-test.json** contains the test set that we used in our paper
 - **ltec-sentiment-automatic.json** contains tweets with automatically assigned sentiment based on emoticons
 
+
+This data set is aso available in the Hugging Face Data Sets repository:
+https://huggingface.co/datasets/matiss/Latvian-Twitter-Eater-Corpus-Sentiment
+
+
 ## Tweet Structure
 ```json
 {   
@@ -17,10 +22,14 @@ This sub-corpus contains 5420 tweets with human-annotated sentiment as positive 
 ```
 
 
-## Other Latvian twitter sentiment corpora
+## Other Latvian Twitter sentiment corpora
 ---------
 * [Pinnis](https://github.com/pmarcis/latvian-tweet-corpus) - ~ 7000 tweets from politicians and companies
 * [Peisenieks](https://github.com/FnTm/latvian-tweet-sentiment-corpus) - ~ 1000 general tweets with sentiment annotated by multiple annotators
 * [Vīksna](https://github.com/RinaldsViksna/sikzinu_analize) - ~ 4000 general tweets
 * [Nicmanis](https://github.com/nicemanis/LV-twitter-sentiment-corpus) - ~ 2000 general tweets
 * [Špats](https://github.com/gatis/om) - ~ 6000 general tweets (lowercased)
+
+## Other Latvian sentiment corpora
+---------
+* [Purviņš](https://github.com/Puupuls/LVRedditCorpus) - 300 manually annotated posts from Latvian Reddit, and many automatically labeled posts

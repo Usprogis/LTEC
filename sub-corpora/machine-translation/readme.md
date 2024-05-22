@@ -1,19 +1,10 @@
-# Image-text Relation Classification Test Set
+# Latvian Twitter Eater Corpus - Translation Sub-corpus
 
-The data set contains images attached to the tweets, tweet IDs, text, and a manually annotated relation class between the image and tweet text. 
-The relation classes are similar to the ones in the paper "[Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts](https://aclanthology.org/P19-1272/)"
-
-Relations:
----------
-
-    0 - The image ADDS to tweet meaning and tweet text IS represented in the image
-    1 - The image ADDS to tweet meaning but tweet text is NOT represented in the image
-    2 - The image does NOT ADD to tweet meaning but tweet text IS represented in the image
-    3 - The image does NOT ADD to tweet meaning and tweet text is NOT represented in the image
+The Latvian Twitter Eater Translation test set contains two references for English translations produced by two different translators. A separate random manual evaluation of the translations has shown that the translations in `english reference 2` are slightly higher quality than the ones in `english reference 1`.
 
 
 This data set is aso available in the Hugging Face Data Sets repository:
-https://huggingface.co/datasets/matiss/Latvian-Twitter-Eater-Corpus-Images
+https://huggingface.co/datasets/matiss/Latvian-Twitter-Eater-Corpus-Translation
 
 
 Publications
