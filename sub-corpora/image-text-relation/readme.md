@@ -1,4 +1,4 @@
-# Latvian Twitter Eater Corpus - Image-text Relation Classification Test Set
+# Image-text Relation Classification Test Set
 
 The data set contains images attached to the tweets, tweet IDs, text, and a manually annotated relation class between the image and tweet text. 
 The relation classes are similar to the ones in the paper "[Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts](https://aclanthology.org/P19-1272/)"
